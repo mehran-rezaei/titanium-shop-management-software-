@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-white;
+  }
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.liner_gradiant{
+  background: linear-gradient(270deg, rgba(48, 46, 46, 0.20) 35%, rgba(3, 251, 245, 0.20) 100%);
+}
+
+
+/* /////////////////////////////////////////////////////////////////scrollbar style  */
+::-webkit-scrollbar {
+  width: 10px; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888; 
+  border-radius: 5px; 
+}
+textarea:focus, input:focus{
+  outline: none;
+}
+.MuiSvgIcon-root{
+  color: white;
+}
+@layer base {
+  html {
+    --color-primary: white;
+    --color-secondary: #00A5A5;
+    --color-typography: black;
+    --color-buttons: #de7a22;
+    --color-border: #00A5A5;
+    --color-tableHeader: #EDEBEB;
+    --color-tableBody: #08030384;
+    --color-tableRowhover: #edebeb1e;
+    --color-icon: black;
+  }
+  @import "themes/Dark.css";
+  @import "themes/theme1.css";
+  }
+ 

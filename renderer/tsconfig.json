@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.json",
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "Components/Containers/Management/Products/Product_modal/NewProduct"
+, "Components/Containers/Management/Products/Product_modal/EditProduct"  ],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,11 @@
+html[data-theme="Dark"] {
+    --color-primary: #2F2F2F;
+    --color-secondary: #00A5A5;
+    --color-buttons: #de7a22;
+    --color-typography: white;
+    --color-border: #00A5A5;
+    --color-tableHeader: #443f3f;
+    --color-tableBody: #2f2f2f64;
+    --color-tableRowhover: #6d6d6d17;
+    --color-icon: white;
+    }
