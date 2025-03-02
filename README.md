@@ -1,4 +1,4 @@
-## I have an Electron application designed for managing a large store, covering all the detailed activities of a store. In the screenshots, you can see a portion of the application. This website is built using Next.js, React, TypeScript, Tailwind CSS and Electron
+## a Electron application designed for managing a large store, covering all the detailed activities of a store. In the screenshots, you can see a portion of the application. This website is built using Next.js, React, TypeScript, Tailwind CSS and Electron
 ##
 ![Annotation 2024-02-11 191952](https://github.com/mehran-rezaei/titanium-shop-management-software-/assets/110059221/75052330-5dca-4efb-935d-aad5b4bf8391)
 ![Annotation 2024-02-11 191931](https://github.com/mehran-rezaei/titanium-shop-management-software-/assets/110059221/3b241b10-08be-41b9-b32b-832a646e7d1a)
